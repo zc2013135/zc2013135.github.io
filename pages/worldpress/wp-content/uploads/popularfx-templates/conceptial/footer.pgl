@@ -1,0 +1,33 @@
+<!-- sp:pagelayer/pl_post_props {"post_title":"Footer","post_status":"publish","post_date":"2021-10-29 11:03:54","post_author":"1","post_name":"footer","post_excerpt":"","post_password":"","featured_image":"","comment_status":"","ping_status":"","post_sticky":"","post_parent":0,"menu_order":0,"post_category":"","post_tags":"","pagelayer-id":"q237658"} /-->
+<!-- sp:pagelayer/pl_row {"stretch":"auto","col_gap":"10","width_content":"auto","row_height":"default","overlay_hover_delay":"400","row_shape_top_color":"#227bc3","row_shape_top_width":"100","row_shape_top_height":"100","row_shape_bottom_color":"#e44993","row_shape_bottom_width":"100","row_shape_bottom_height":"100","ele_bg_type":"color","ele_bg_color":"#171717ff","ele_padding":["30px","0px","40px","0px"],"pagelayer-id":"2ki5913"} -->
+<!-- sp:pagelayer/pl_col {"widget_space":"15","overlay_hover_delay":"400","col":"6","pagelayer-id":"z7l7687"} -->
+<!-- sp:pagelayer/pl_wp_title {"site_name":"Conceptial","site_title_state":"normal","text-align":"left","title_padding":"0,0,0,0","title_color":"#57c1b6ff","site_title_style":"Questrial,30,,500,,,Solid,,,,","pagelayer-id":"13e6631"} /-->
+<!-- sp:pagelayer/pl_heading {"text":"\u003cp\u003eThe point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. \u003c\/p\u003e","heading_state":"normal","color":"#ffffffff","pagelayer-id":"acd2947"} --><p>The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. </p><!-- /sp:pagelayer/pl_heading -->
+<!-- sp:pagelayer/pl_social_grp {"align":"left","group_layout":"pagelayer-btn-grp-horizontal","icon_spacing":"3","icon_size":"16","color_scheme":"","icon_color":"#333333","social_hover_delay":"400","icon_color_hover":"#ffffff","bg_shape":"pagelayer-social-shape-circle","bg_size":"10","icon_bg_color":"#57c1b6ff","icon_bg_color_hover":"#000000ff","social_hover":"hover","pagelayer-id":"e148405"} -->
+<!-- sp:pagelayer/pl_social {"icon":"fab fa-facebook-f","social_url":"https:\/\/facebook.com\/sitepad","pagelayer-id":"f076171"} /-->
+<!-- sp:pagelayer/pl_social {"icon":"fab fa-twitter","social_url":"https:\/\/twitter.com\/sitepad","pagelayer-id":"x5e8982"} /-->
+<!-- sp:pagelayer/pl_social {"icon":"fab fa-instagram","social_url":"https:\/\/instagram.com\/sitepad","pagelayer-id":"j423058"} /-->
+<!-- sp:pagelayer/pl_social {"icon":"fab fa-linkedin-in","social_url":"https:\/\/linkedin.com\/sitepad","pagelayer-id":"c716115"} /-->
+<!-- /sp:pagelayer/pl_social_grp -->
+<!-- /sp:pagelayer/pl_col -->
+<!-- sp:pagelayer/pl_col {"widget_space":"15","overlay_hover_delay":"400","col":"2","pagelayer-id":"x2n4374"} -->
+<!-- sp:pagelayer/pl_heading {"heading_state":"normal","color":"#57c1b6ff","heading_typo":"Questrial,20,,500,,,Solid,,,,","text":"Quick Links","pagelayer-id":"exr6552"} -->Quick Links<!-- /sp:pagelayer/pl_heading -->
+<!-- sp:pagelayer/pl_list {"list_type":"none","spacing":"20","list_text_state":"normal","item_indent":"0","list_icon_state":"normal","icon_color":"#0986c0","icon_border_type":"","icon_border_color":"#cbd2dc78","icon_border_width":"3","side_spacing":"0","list_color":"#ffffffff","list_typo":["Muli","14","","500","","","Solid","","","",""],"pagelayer-id":"djp7870"} -->
+<!-- sp:pagelayer/pl_list_item {"show_icon":"","icon":"fas fa-star","item":"Home","item_url":"||link_id|page|home||","pagelayer-id":"v3b8044"} -->Home<!-- /sp:pagelayer/pl_list_item -->
+<!-- sp:pagelayer/pl_list_item {"show_icon":"","icon":"fas fa-star","item":"About Us","item_url":"||link_id|page|about||","pagelayer-id":"jby2295"} -->About Us<!-- /sp:pagelayer/pl_list_item -->
+<!-- sp:pagelayer/pl_list_item {"show_icon":"","icon":"fas fa-star","item":"Services","item_url":"||link_id|page|services||","pagelayer-id":"hfg8341"} -->Services<!-- /sp:pagelayer/pl_list_item -->
+<!-- sp:pagelayer/pl_list_item {"show_icon":"","icon":"fas fa-star","item":"Contact Us","item_url":"||link_id|page|contact||","pagelayer-id":"9563400"} -->Contact Us<!-- /sp:pagelayer/pl_list_item -->
+<!-- /sp:pagelayer/pl_list -->
+<!-- /sp:pagelayer/pl_col -->
+<!-- sp:pagelayer/pl_col {"widget_space":"15","overlay_hover_delay":"400","col":"4","pagelayer-id":"zpx5192"} -->
+<!-- sp:pagelayer/pl_heading {"heading_state":"normal","color":"#57c1b6ff","heading_typo":"Questrial,20,,500,,,Solid,,,,","text":"Get In Touch","pagelayer-id":"9s38935"} -->Get In Touch<!-- /sp:pagelayer/pl_heading -->
+<!-- sp:pagelayer/pl_address {"icon":"","color":"#ffffffff","typography":"Muli,14,,500,,,Solid,1.4,,,","ele_margin":"10px,0px,0px,0px","pagelayer-id":"5ni5348"} /-->
+<!-- sp:pagelayer/pl_email {"icon":"","color":"#ffffffff","typography":"Muli,14,,500,,,Solid,,,,","ele_margin":"6px,0px,0px,0px","linked":"true","pagelayer-id":"azh7650"} /-->
+<!-- sp:pagelayer/pl_phone {"icon":"","typography":"Muli,14,,500,,,Solid,,,,","color":"#ffffffff","ele_margin":"10px,0px,0px,0px","linked":"true","pagelayer-id":"p1w6559"} /-->
+<!-- /sp:pagelayer/pl_col -->
+<!-- /sp:pagelayer/pl_row -->
+<!-- sp:pagelayer/pl_row {"stretch":"auto","col_gap":"10","width_content":"auto","row_height":"default","overlay_hover_delay":"400","row_shape_top_color":"#227bc3","row_shape_top_width":"100","row_shape_top_height":"100","row_shape_bottom_color":"#e44993","row_shape_bottom_width":"100","row_shape_bottom_height":"100","ele_bg_type":"color","ele_bg_color":"#212121ff","ele_padding":"10px,0px,10px,0px","pagelayer-id":"2h36294"} -->
+<!-- sp:pagelayer/pl_col {"widget_space":"15","overlay_hover_delay":"400","pagelayer-id":"flv6574"} -->
+<!-- sp:pagelayer/pl_copyright {"color":"#ffffffff","align":"left","typography":"Questrial,16,,500,,,Solid,,,,","copyright_text":"\u00a9 2021 Careerist Theme. All right Reserved","pagelayer-id":"d1n2618"} /-->
+<!-- /sp:pagelayer/pl_col -->
+<!-- /sp:pagelayer/pl_row -->

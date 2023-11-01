@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=1">
+	<title>摸摸牛</title>
+	<style>
+	    body {
+            background-color:gray;
+        }
+		body {
+            width: 100%;
+            height: 100%;
+        }
+		 * {
+            padding: 0;
+            margin: 0;
+            box-sizing: border-box;
+            text-align: center;
+        }
+		 h1 {
+            color: black;
+            display: block;
+            width: 650px;
+            height: 0px;
+            margin: 0px auto;
+        }
+		img { /* margin-top: 0px; */
+            width: 850px;
+            height: 650px;
+            margin: 100px auto;
+		}
+		img {
+			transition: transform 0.4s;
+			transform-origin: center center;
+		}
+		img:active {
+			transform: scale(1.5);
+			transition: transform 0.4s;
+		}
+		p  {
+            display: block;
+        }
+	</style>
+	<script type="text/javascript">
+		function playAudio1() {
+            var audio = document.getElementById("myAudio1");
+            audio.play();
+        }		
+	</script>
+</head>
+<body>
+    <body onload="generate()">
+	<h1>~~抱歉，网页还没做好哦~~</h1 >
+	<div align="center">
+			<img src="img.png" height="687px" width="655px "/ onclick="playAudio1(); ">
+</body>
+<audio id="myAudio1">
+  <source src="sound/sound1.mp3" type="audio/mpeg">
+</audio>
+</html>

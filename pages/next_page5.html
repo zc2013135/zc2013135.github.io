@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=1">
+	<title>谢谢您</title>
+	<style>
+	    body {
+            background-color:#92a8d1;
+        }
+		body {
+            width: 100%;
+            height: 100%;
+        }
+		 * {
+            padding: 0;
+            margin: 0;
+            box-sizing: border-box;
+            text-align: center;
+        }
+		 h1 {
+            color: black;
+            display: block;
+            width: 650px;
+            height: 0px;
+            margin: 0px auto;
+        }
+		img { /* margin-top: 0px; */
+            width: 670px;
+            height: 550px;
+            margin: 100px auto;
+		}
+		img {
+			transition: transform 0.4s;
+			transform-origin: center center;
+		}
+		img:active {
+			transform: scale(1.5);
+			transition: transform 0.4s;
+		}
+		p  {
+            display: block;
+        }
+	</style>
+	<script type="text/javascript">
+	function next_page5() {
+		window.location.href = "star/star1.html";
+		}
+		function playAudio3() {
+            var audio = document.getElementById("myAudio3");
+            audio.play();
+        }
+	</script>
+	<span class="js-cursor-container"></span>
+<script src="background.js"></script>
+</head>
+<body>
+	<audio id="myAudio3">
+  <source src="sound/sound3.wav" type="audio/wav">
+</audio>
+	<h1>谢谢您，好人一生平安!牛牛很舒服~~~</h1 >
+	<div align="center">
+			<img src="img.png" height="687px" width="655px "/ onclick="playAudio3()">
+    <button onclick="next_page5()">进入网站</button>
+</body>
+</html>

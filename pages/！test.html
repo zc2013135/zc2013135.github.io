@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+     <meta name="viewport" content="width=device-width, initial-scale=0.8, maximum-scale=0.8, user-scalable=0">
+    <link rel="stylesheet" href="styleme.css">
+	<title>摸摸牛</title>
+</head>
+<body onload="setTimeout(function(){document.getElementById('auto').click()}, 200)">
+</body>
+    <h1>点击摸牛牛～～</h1 >
+	<div align="center">
+			<!--<img src="img.png" height="687px" width="655px "/ onclick="playAudio(); increment(); showText()">-->
+			<img src="img.png" height="687px" width="655px "/ onclick="randomPlayAudio()">
+		</div>
+<audio id="myAudio">
+  <source src="sound/sound.mp3" type="audio/mpeg">
+</audio>
+<audio id="myAudio2">
+  <source src="sound/sound2.mp3" type="audio/mpeg">
+</audio>
+<audio id="myAudio1">
+  <source src="sound/sound1.mp3" type="audio/mpeg">
+</audio>
+    <p>牛牛有多爽: <span id="counter">0</span></p>
+    <p1>计算答案并且摸牛牛:</p1>
+    <p2><span id="equation"></span> = <input type="hidden" id="answer"></p2>
+    <button id="auto" onclick="generate()">摸几下？</button>
+    <button onclick="check()">确认</button>
+	<button onclick="playAudio2(); decrement(); showText2()">摸多了</button>
+	<span class="js-cursor-container"></span>
+  <div class="container">
+<script src="script.js"></script>
+<script src="background.js"></script>
+<script>
+  function check() {
+    if (count == document.getElementById("answer").value) {
+      window.location.href = "next_page.html";
+    } else {
+      alert("你摸得不对哦，再来一次吧~");
+    }  
+  }
+  function randomPlayAudio(){
+  let num = Math.random()
+	console.log(num);
+	if (num >= 0 && num < 0.35) {
+    playAudio();    
+		increment();         //加1 概率35%
+		showText();
+  } else if (num >= 0.35 && num < 0.7) {
+    playAudio2();        
+		decrement();         //减1 概率35%
+		showText2();
+  } else if (num >= 0.7 && num < 0.8) {
+    playAudio1();        //很几把舒服
+		multiply();          //+（1~8）*3-2   showtext二合一  概率10%
+  } else if (num >= 0.8 && num < 0.9) {
+    playAudio1();        //贼他妈难受
+		division();          //-（2~9）*3-5   showtext二合一  概率10%
+  } else if (num >= 0.90 && num <= 1) {
+    playAudio1();        //嗯？  概率10%
+		showText1();
+	}
+}
+</script>
+</html>
